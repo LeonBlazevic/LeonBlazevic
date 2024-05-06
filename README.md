@@ -8,7 +8,7 @@ This repository serves as a storage for my projects from various subjects at col
 
 ## Projects 🚀
 Here you can find various projects ranging from:
-- Programming in C, C++, Python, Java...
+- Programming in C, C++, Python, Java, VHDL...
 - Web development using HTML, CSS, JavaScript, etc.
 - Data analysis and machine learning
 - And much more!
@@ -32,7 +32,7 @@ Ovaj repozitorij služi kao mjesto za moje projekte iz različitih kolegija na f
 
 ## Projekti 🚀
 Ovdje možete pronaći razne projekte koji obuhvaćaju:
-- Programiranje u C-u, C++, Python-u, Javi...
+- Programiranje u C-u, C++, Python-u, Javi, VHDL...
 - Web razvoj koristeći HTML, CSS, JavaScript, itd.
 - Analiza podataka i strojno učenje
 - I mnogo više!
