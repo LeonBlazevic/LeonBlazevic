@@ -9,7 +9,8 @@ This repository serves as a storage for my projects from various subjects at col
 ## Projects 🚀
 Here you can find various projects ranging from:
 - Programming in C, C++, Python, Java, VHDL...
-- Web development using HTML, CSS, JavaScript, etc.
+- Web development using Webflow, HTML, CSS, JavaScript, etc.
+- Web design using Figma
 - Data analysis and machine learning
 - And much more!
 
@@ -18,6 +19,7 @@ If you have any questions, suggestions, or just want to chat about technology, f
 email: leon.blazevic70@gmail.com
 instagram: leon.blazevicc
 linkedin: Leon Blazevic
+portfolio site: https://leonbazevic.site
 ## Thank You! 🙏
 Thank you for visiting my GitHub profile! Feel free to explore my projects, and I hope you find something interesting. 
 If you're interested in collaborating or have any questions, don't hesitate to contact me. 
