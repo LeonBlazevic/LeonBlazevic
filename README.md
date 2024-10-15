@@ -19,7 +19,7 @@ If you have any questions, suggestions, or just want to chat about technology, f
 email: leon.blazevic70@gmail.com
 instagram: leon.blazevicc
 linkedin: Leon Blazevic
-portfolio site: https://leonbazevic.site
+portfolio site: [(https://leon-blazevic--portfolio-site.webflow.io/)](https://leon-blazevic--portfolio-site.webflow.io/)
 ## Thank You! 🙏
 Thank you for visiting my GitHub profile! Feel free to explore my projects, and I hope you find something interesting. 
 If you're interested in collaborating or have any questions, don't hesitate to contact me. 
@@ -44,7 +44,7 @@ Ako imate bilo kakvih pitanja, prijedloga ili jednostavno želite popričati o t
 email: leon.blazevic70@gmail.com
 instagram: leon.blazevicc
 linkedin: Leon Blazevic
-
+portfolio stranica: https://leon-blazevic--portfolio-site.webflow.io/
 ## Hvala vam! 🙏
 Hvala vam što ste posjetili moj GitHub profil! 
 Slobodno istražite moje projekte, nadam se da ćete pronaći nešto zanimljivo. 
